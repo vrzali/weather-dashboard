@@ -16,7 +16,7 @@ https://vrzali.github.io/weather-dashboard
 
 
 ## Application screenshot
-![](assets/screenshot.PNG)
+![screenshot](assets/screenshot.PNG)
 
 ## Contirbuted
 
