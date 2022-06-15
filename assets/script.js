@@ -48,7 +48,7 @@ function currentWeather(city){
         $(currentWSpeed).html(windsmph+"MPH");
         UVIndex(response.coord.lon,response.coord.lat);
         forecast(response.id);
-        if(response.cod==200){
+        if (response.cod==200){
             sCity=JSON.parse(localStorage.getItem("cityname"));
             console.log(sCity);
             if (sCity==null){
@@ -69,7 +69,6 @@ function currentWeather(city){
 
     });
 }
-
 function UVIndex(ln,lt){
     var uvqURL="https://api.openweathermap.org/data/2.5/uvi?appid="+ APIKey+"&lat="+lt+"&lon="+ln;
     $.ajax({
