@@ -17,3 +17,7 @@ https://vrzali.github.io/weather-dashboard
 
 ## Application screenshot
 ![](assets/screenshot.PNG)
+
+## Contirbuted
+
+Made by Vadad Rzali
