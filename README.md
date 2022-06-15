@@ -12,7 +12,7 @@ Weather-Dashboard is an application to find a weather condition of a given city 
 
 ## Website
 
-https://vrzali.github.io/
+https://vrzali.github.io/weather-dashboard
 
 
 ## Application screenshot
