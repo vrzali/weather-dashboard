@@ -67,6 +67,8 @@ function currentWeather(city){
             }
         }
 
+    }).fail(function(error){
+        alert("No city found. Please try again.");
     });
 }
 function UVIndex(ln,lt){
